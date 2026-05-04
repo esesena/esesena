@@ -47,7 +47,7 @@ Sou desenvolvedor com foco em aplicações **backend** com C# e **.NET**, e **fr
 | [Inventory-System](https://github.com/Scarabeli-Dev/Inventory-System) | Sistema para contagem e controle de inventário | C# · ASP.NET |
 | [AuthApi](https://github.com/Scarabeli-Dev/AuthApi) | API de autenticação com geração de tokens e controle de usuários | C# |
 | [SlidersControl](https://github.com/Scarabeli-Dev/SlidersControl) | API para controle de sliders integrada com AWS S3 | C# · AWS S3 |
-| [SADC](https://github.com/Scarabeli-Dev/SADC) | Sistema de gerenciamento de dados agronômicos | CSS · JavaScript |
+| [SADC](https://github.com/Scarabeli-Dev/SADC) | Sistema de gerenciamento de dados agronômicos | C# · ASP.NET · TypeScript |
 
 ---
 
