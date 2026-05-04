@@ -12,7 +12,7 @@ Sou desenvolvedor com foco em aplicações **backend** com C# e **.NET**, e **fr
 - 🔭 Atualmente trabalhando em projetos na [**Scarabeli-Dev**](https://github.com/Scarabeli-Dev)
 - 💼 Experiência com sistemas de gestão, APIs de autenticação, controle de inventário e plataformas SaaS
 - 🌱 Sempre aprendendo e explorando novas tecnologias
-- 📫 Como me encontrar: **[LinkedIn](https://linkedin.com/in/esesena)**
+- 📫 Como me encontrar: **[LinkedIn](https://linkedin.com/in/elanã-scarabeli-8968bab3)**
 
 ---
 
